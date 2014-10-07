@@ -1,12 +1,16 @@
 The Gladiator
 Inglorious Basterds
-<<<<<<< HEAD
 Inception
-=======
 Guardians Of The Galaxy
->>>>>>> aa9dd54e477b2fbd80430021ee8f4c0458fcd564
 The Prestige
+Matrix
+Star Wars: A New Hope
+Annabelle
+Guardians Of The Galaxy
+Frozen
 Se7en
 Fight Club
 Snakes on a Plane
 Gayniggers from Outer Space
+Mulan
+
